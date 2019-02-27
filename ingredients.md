@@ -5,3 +5,5 @@
 * Tomatoes
 * Yeast
 * Cheese
+* Green pepper
+* Mushroom
