@@ -2,7 +2,7 @@
 
 * Flour
 * Water
-* Tomato sauce
+* Tomato sauce with a bit of olive oil and salt
 * Yeast
 * Cheese
 * Green pepper
